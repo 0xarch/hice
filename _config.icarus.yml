@@ -8,7 +8,7 @@ head:
     manifest:
         name: 0xarch 
         short_name: 
-        start_url: 
+        start_url: hice.netlify.app 
         theme_color: 
         background_color: 
         display: standalone
@@ -18,9 +18,9 @@ head:
                 sizes: ''
                 type: 
     open_graph:
-        title: 
+        title:  
         type: blog
-        url: 
+        url: hice.netlify.app 
         image: 
         site_name: 
         author: 
@@ -34,7 +34,7 @@ head:
     structured_data:
         title: 
         description: 
-        url: 
+        url: hice.netlify.app
         author: 
         publisher: 
         publisher_logo: 
@@ -71,22 +71,22 @@ article:
         fold: unfolded
     readtime: true
     update_time: true
-    licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: https://creativecommons.org/
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: https://creativecommons.org/licenses/by/4.0/
-        Noncommercial:
-            icon: fab fa-creative-commons-nc
-            url: https://creativecommons.org/licenses/by-nc/4.0/
+    #licenses:
+    #    Creative Commons:
+    #        icon: fab fa-creative-commons
+    #        url: https://creativecommons.org/
+    #    Attribution:
+    #        icon: fab fa-creative-commons-by
+    #        url: https://creativecommons.org/licenses/by/4.0/
+    #    Noncommercial:
+    #        icon: fab fa-creative-commons-nc
+    #        url: https://creativecommons.org/licenses/by-nc/4.0/
 search:
     type: insight
     index_pages: true
-comment:
-    type: disqus
-    shortname: ''
+#comment:
+#    type: disqus
+#    shortname: ''
 donates:
     -
         type: afdian
@@ -95,24 +95,14 @@ donates:
         type: alipay
         qrcode: ''
     -
-        type: buymeacoffee
-        url: ''
-    -
-        type: patreon
-        url: ''
-    -
-        type: paypal
-        business: ''
-        currency_code: USD
-    -
         type: wechat
         qrcode: ''
 share:
     type: sharethis
-    install_url: ''
+    install_url: 'hice.netlify.app'
 sidebar:
     left:
-        sticky: false
+        sticky: true
     right:
         sticky: false
 widgets:
@@ -122,8 +112,8 @@ widgets:
         author: 0xarch
         author_title: We won't be distrubed!
         location: Cloud 114514 , Xvd
-        avatar: 
-        avatar_rounded: false
+        avatar:  
+        avatar_rounded: true
         gravatar: 
         follow_link: https://github.com/0xarch
         social_links:

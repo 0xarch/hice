@@ -1,5 +1,9 @@
 ---
 title: C++ 简介
+date: 2022-11-19
+urlname: hice.netlify.app
+tags: C++
+toc: true
 ---
 
 The C++ Programming Language(C++) 是一种静态类型的、编译式的、通用的、大小写敏感的、不规则的编程语言，支持过程化编程、面向对象编程和泛型编程。
