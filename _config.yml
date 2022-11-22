@@ -5,7 +5,7 @@ keywords: null
 author: 0xarch
 language: zh-CN
 timezone: ''
-url: http://example.com
+url: http://hice.netlify.app
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:

@@ -71,16 +71,16 @@ article:
         fold: unfolded
     readtime: true
     update_time: true
-    #licenses:
-    #    Creative Commons:
-    #        icon: fab fa-creative-commons
-    #        url: https://creativecommons.org/
-    #    Attribution:
-    #        icon: fab fa-creative-commons-by
-    #        url: https://creativecommons.org/licenses/by/4.0/
-    #    Noncommercial:
-    #        icon: fab fa-creative-commons-nc
-    #        url: https://creativecommons.org/licenses/by-nc/4.0/
+    licenses:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        Attribution:
+            icon: fab fa-creative-commons-by
+            url: https://creativecommons.org/licenses/by/4.0/
+        Noncommercial:
+            icon: fab fa-creative-commons-nc
+            url: https://creativecommons.org/licenses/by-nc/4.0/
 search:
     type: insight
     index_pages: true
@@ -112,7 +112,7 @@ widgets:
         author: 0xarch
         author_title: We won't be distrubed!
         location: Cloud 114514 , Xvd
-        avatar:  
+        avatar: 'avatar.jpg' 
         avatar_rounded: true
         gravatar: 
         follow_link: https://github.com/0xarch
@@ -138,18 +138,18 @@ widgets:
         index: true
         collapsed: true
         depth: 3
-    -
-        position: left
-        type: links
-        links:
-            Hexo: https://hexo.io
-            0xarch: 0xarch.netlify.app
-    -
-        position: left
-        type: categories
-    -
-        position: left
-        type: recent_posts
+    #-
+    #    position: left
+    #    type: links
+    #    links:
+    #        Hexo: https://hexo.io
+    #        0xarch: 0xarch.netlify.app
+    #-
+    #    position: left
+    #    type: categories
+    #-
+    #    position: left
+    #    type: recent_posts
     -
         position: left
         type: archives
@@ -159,22 +159,22 @@ widgets:
         order_by: name
         amount: 
         show_count: true
-    -
-        position: left
-        type: subscribe_email
-        description: 
-        feedburner_id: ''
+    #-
+    #    position: left
+    #    type: subscribe_email
+    #    description: 
+    #    feedburner_id: ''
           #-
           #position: left
           #type: adsense
           #client_id: ''
           #slot_id: ''
-    -
-        position: left
-        type: followit
-        description: 
-        action_url: ''
-        verification_code: ''
+    #-
+    #    position: left
+    #    type: followit
+    #    description: 
+    #    action_url: ''
+    #    verification_code: ''
 plugins:
     animejs: true
     back_to_top: true

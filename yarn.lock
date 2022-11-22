@@ -1169,7 +1169,7 @@
   "resolved" "https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.2.tgz"
   "version" "1.1.2"
 
-"bulma-stylus@0.8.0":
+"bulma-stylus@^0.8.0", "bulma-stylus@0.8.0":
   "integrity" "sha512-9Q9BMPeHFyJ5EWh/tJPCcLDYEovKzUBOyMHsKEIyxSYEKG8wqt9RVuTumaJ2AfDjyHC9OifWKOfJSweKYD5IMQ=="
   "resolved" "https://registry.npmjs.org/bulma-stylus/-/bulma-stylus-0.8.0.tgz"
   "version" "0.8.0"
@@ -1188,9 +1188,9 @@
     "tslib" "^2.0.3"
 
 "caniuse-lite@^1.0.30001400":
-  "integrity" "sha512-zBUoFU0ZcxpvSt9IU66dXVT/3ctO1cy4y9cscs1szkPlcWb6pasYM144GqrUygUbT+k7cmUCW61cvskjcv0enQ=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001431.tgz"
-  "version" "1.0.30001431"
+  "integrity" "sha512-aOBHrLmTQw//WFa2rcF1If9fa3ypkC1wzqqiKHgfdrXTWcU8C4gKVZT77eQAPWN1APys3+uQ0Df07rKauXGEYA=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001434.tgz"
+  "version" "1.0.30001434"
 
 "chalk@^2.0.0":
   "integrity" "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="
@@ -1725,7 +1725,7 @@
     "resolve" "^1.11.0"
     "tildify" "^2.0.0"
 
-"hexo-component-inferno@^2.0.0":
+"hexo-component-inferno@^2.0.0", "hexo-component-inferno@^2.0.1":
   "integrity" "sha512-czg2r7unN1o1jcU6B2aT8I7r0nu8qxJeb7g5cwcm1q+W079712/8c5EGmR21sD7gCAW9MUDylLc01GZmFAQv4Q=="
   "resolved" "https://registry.npmjs.org/hexo-component-inferno/-/hexo-component-inferno-2.0.1.tgz"
   "version" "2.0.1"
@@ -2005,7 +2005,7 @@
   dependencies:
     "safer-buffer" ">= 2.1.2 < 3.0.0"
 
-"inferno-create-element@^7.3.3":
+"inferno-create-element@^7.3.3", "inferno-create-element@^7.4.11":
   "integrity" "sha512-kE6XIx2hPAd5qpDli2iGjNXgubvuyxdLvoiW71WnSzIIxA+Uxa/s8lY8m03VyHHVypFV3n329ZY5dFvKc7UQMg=="
   "resolved" "https://registry.npmjs.org/inferno-create-element/-/inferno-create-element-7.4.11.tgz"
   "version" "7.4.11"
@@ -2029,7 +2029,7 @@
   "resolved" "https://registry.npmjs.org/inferno-vnode-flags/-/inferno-vnode-flags-7.4.11.tgz"
   "version" "7.4.11"
 
-"inferno@^7.3.3", "inferno@7.4.11":
+"inferno@^7.3.3", "inferno@^7.4.11", "inferno@7.4.11":
   "integrity" "sha512-N+cs33ESWI8fdToCd98yMRYl7jkLnCkJskxov3FKKlaKOvk3PRlAttbhmUaYdWXlRvt2WeXi+J4MbzNj3V6G0w=="
   "resolved" "https://registry.npmjs.org/inferno/-/inferno-7.4.11.tgz"
   "version" "7.4.11"
@@ -2715,7 +2715,7 @@
   "resolved" "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz"
   "version" "6.3.0"
 
-"semver@^7.1.1", "semver@>=5.0.0":
+"semver@^7.1.1", "semver@^7.3.8", "semver@>=5.0.0":
   "integrity" "sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A=="
   "resolved" "https://registry.npmjs.org/semver/-/semver-7.3.8.tgz"
   "version" "7.3.8"
