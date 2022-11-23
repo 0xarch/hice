@@ -3,6 +3,7 @@ title: C++ 环境设置
 date: 2022-11-20
 urlname: hice.netlify.app
 tags: C++
+categories: C++
 toc: true
 ---
 ## 本地环境设置
